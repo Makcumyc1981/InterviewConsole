@@ -140,7 +140,6 @@
     <Content Include="App_Data\Employee_log.ldf">
       <DependentUpon>Employee.mdf</DependentUpon>
     </Content>
-    <Content Include="App_Data\TextFile.txt" />
     <Content Include="EmployeeService.svc" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
